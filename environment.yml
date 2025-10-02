@@ -1,0 +1,6 @@
+name: tfmac
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /opt/anaconda3/envs/tfmac
